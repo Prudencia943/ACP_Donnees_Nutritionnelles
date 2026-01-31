@@ -1,0 +1,21 @@
+Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+env/
+venv/
+ENV/
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.jpg
